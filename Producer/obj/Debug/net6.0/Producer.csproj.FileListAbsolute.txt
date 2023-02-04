@@ -1,0 +1,17 @@
+D:\RABBITMQ_PROJECT\Producer\bin\Debug\net6.0\Producer.exe
+D:\RABBITMQ_PROJECT\Producer\bin\Debug\net6.0\Producer.deps.json
+D:\RABBITMQ_PROJECT\Producer\bin\Debug\net6.0\Producer.runtimeconfig.json
+D:\RABBITMQ_PROJECT\Producer\bin\Debug\net6.0\Producer.dll
+D:\RABBITMQ_PROJECT\Producer\bin\Debug\net6.0\Producer.pdb
+D:\RABBITMQ_PROJECT\Producer\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\RABBITMQ_PROJECT\Producer\obj\Debug\net6.0\Producer.csproj.AssemblyReference.cache
+D:\RABBITMQ_PROJECT\Producer\obj\Debug\net6.0\Producer.GeneratedMSBuildEditorConfig.editorconfig
+D:\RABBITMQ_PROJECT\Producer\obj\Debug\net6.0\Producer.AssemblyInfoInputs.cache
+D:\RABBITMQ_PROJECT\Producer\obj\Debug\net6.0\Producer.AssemblyInfo.cs
+D:\RABBITMQ_PROJECT\Producer\obj\Debug\net6.0\Producer.csproj.CoreCompileInputs.cache
+D:\RABBITMQ_PROJECT\Producer\obj\Debug\net6.0\Producer.csproj.CopyComplete
+D:\RABBITMQ_PROJECT\Producer\obj\Debug\net6.0\Producer.dll
+D:\RABBITMQ_PROJECT\Producer\obj\Debug\net6.0\refint\Producer.dll
+D:\RABBITMQ_PROJECT\Producer\obj\Debug\net6.0\Producer.pdb
+D:\RABBITMQ_PROJECT\Producer\obj\Debug\net6.0\Producer.genruntimeconfig.cache
+D:\RABBITMQ_PROJECT\Producer\obj\Debug\net6.0\ref\Producer.dll
